@@ -1,3 +1,3 @@
-module test/app-1
+module test/bmi-calc
 
 go 1.27.2
